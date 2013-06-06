@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="icon_name">NewEats</string>
+    <string name="app_name">NewEatsNewYork</string>
+    <string name="server">http://nenyserver.appspot.com/newRestaurants</string>
+    <string name="emu_server">http://10.0.2.2:8888/newRestaurants</string>
+    <string name="home_server">http://192.168.1.4:8888/newRestaurants</string>
+    <string name="update_restaurant_list">Update Restaurant List</string>
+    <string name="choose_cuisines">Cuisines</string>
+    <string name="choose_neighborhoods">Neighborhoods</string>
+    <string name="choose_times">Dining Times</string>
+    <string name="show_restaurants">Show Restaurants</string>
+    <string name="call">Call</string>
+    <string name="phone">Phone:</string>
+    <string name="building">Building:</string>
+    <string name="address">Address:</string>
+    <string name="cuisine">Cuisine:</string>
+
+    <string-array name="neighborhoods">
+        <item>Inwood</item>
+        <item>Harlem</item>
+        <item>East Harlem</item>
+        <item>Upper West Side</item>
+        <item>Upper East Side</item>
+        <item>Chelsea</item>
+        <item>Gramercy</item>
+        <item>Greenwich / Soho</item>
+        <item>Lower East Side</item>
+        <item>East Village</item>
+        <item>Wall Street</item>
+        <item>Forest Hills</item>
+        <item>Astoria</item>
+        <item>Woodside</item>
+        <item>Other Queens</item>
+        <item>Staten Island</item>
+        <item>The Bronx</item>
+        <item>Park Slope</item>
+        <item>Williamsburg</item>
+        <item>Brooklyn Heights</item>
+        <item>Dumbo</item>
+        <item>Bushwick</item>
+        <item>Other Brooklyn</item>
+    </string-array>
+
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="day">Day</string>
+    <string name="wizard_complete">wizard_complete</string>
+    <string name="action_settings">Settings</string>
+    <string name="hasSeenCuisine">seen_cuisine</string>
+    <string name="hasSeenNeighborhood">seen_neighborhood</string>
+    <string name="hasSeenTimes">seen_times</string>
+
+</resources>
